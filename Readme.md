@@ -64,8 +64,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DhyanShah22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevMehta22&theme=merko&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhyanShah22&theme=merko&hide_border=false)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhyanshah22&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DhyanShah22&theme=dark)](https://git.io/streak-stats)
